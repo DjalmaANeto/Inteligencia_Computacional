@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rgb",
+				"rgba"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fotn",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"br",
+				"brasil"
+			],
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bal",
+				"ball"
+			],
+			[
+				"draw",
+				"drawBall"
+			],
+			[
+				"upad",
+				"updateBall"
+			],
+			[
+				"u",
+				"updatePaddle2"
+			],
+			[
+				"paddle",
+				"paddle2YPos"
+			],
+			[
+				"update",
+				"updatePaddle1"
+			],
+			[
+				"ball",
+				"ballXPos"
+			],
+			[
+				"ba",
+				"ballYDirection"
+			],
+			[
+				"BA",
+				"BALL_WIDTH"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"ballY",
+				"ballYPos"
+			],
+			[
+				"BALL",
+				"BALL_Y_SPEED"
+			],
+			[
+				"ball_",
+				"BALL_X_SPEED"
+			],
+			[
+				"b",
+				"ballYpos"
+			],
+			[
+				"paddel",
+				"PADDLE_WIDTH"
+			],
+			[
+				"PA",
+				"PADDLE_WIDTH"
+			],
+			[
+				"PADDLE",
+				"PADDLE_BUFFER"
+			],
+			[
+				"WINDOW",
+				"WINDOW_WIDTH"
+			],
+			[
+				"P",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"Pa",
+				"PADDLE_WIDTH"
+			],
+			[
+				"whi",
+				"WHITE"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"num",
+				"numI"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"Thr",
+				"thread"
+			],
+			[
+				"th",
+				"threadid"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"cr",
+				"CR"
+			],
+			[
+				"r",
+				"R"
+			],
+			[
+				"ma",
+				"maxPrimos"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"hsl",
+				"hsla()"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"tet",
+				"text-indent"
+			],
+			[
+				"text-i",
+				"text-indent"
+			],
+			[
+				"src",
+				"srcset\tAttr"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/css/exemplo.css",
+			"settings":
+			{
+				"buffer_size": 1536,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "h",
+		"selected_items":
+		[
+			[
+				"h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Djalma/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/css/exemplo2.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/exemplo2.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/css/exemplo.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/exemplo.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/exemplo2s.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 4 - Introdução a Layout/exemplo2.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 4 - Introdução a Layout/css/exemplo2.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 4 - Introdução a Layout/exemplo1.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Aula 4 - Introdução a Layout/css/exemplo1.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/ciencia/css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/ciencia/index.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/esporte/css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/esporte/index.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/politica/css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/politica/index.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/index.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/biblioteca.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/css/estlilos",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/css/css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css/introduzindo css.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css/exemplo de herança.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css/css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css/css/herança.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css/herança.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/introduzindo css.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/estilos.css",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/imagens/bozo.jpg",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/links para partes de uma página.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/exemplo de marcação.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/Jornal/jornal.html",
+		"/C/Users/Djalma/Documents/ADS/Programação web/biblioteca/html/index.html",
+		"/C/Users/Djalma/AppData/Roaming/Sublime Text 3/Packages/User/JavaC.sublime-build",
+		"/C/Users/Djalma/Desktop/RL.py",
+		"/C/Users/Djalma/Desktop/pong.py",
+		"/C/Users/Djalma/Desktop/Pong/pong.py",
+		"/C/Users/Djalma/Desktop/test.py",
+		"/C/Users/Djalma/Desktop/testando.html",
+		"/C/Users/Djalma/Desktop/test.c",
+		"/C/Users/Djalma/Documents/ADS/inteligencia computacional/aula- 8/PMCjs/matrixPMC.js",
+		"/C/Users/Djalma/Documents/ADS/inteligencia computacional/aula- 8/PMCjs/redeNeural.js",
+		"/C/Users/Djalma/Documents/ADS/inteligencia computacional/aula- 8/PMCjs/PMC.js",
+		"/C/Users/Djalma/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Djalma/Desktop/L04Q14.c",
+		"/C/Users/Djalma/Desktop/Ex1.c",
+		"/C/Users/Djalma/Desktop/Ex2.c",
+		"/C/Users/Djalma/Desktop/L4Q14.c",
+		"/C/Users/Djalma/Desktop/exemplo de threads.c",
+		"/C/Users/Djalma/Desktop/hello linux .C",
+		"/C/Users/Djalma/Desktop/pilhas",
+		"/C/Users/Djalma/Desktop/programação/index configurado.html",
+		"/C/Users/Djalma/Desktop/index configurado.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h3",
+			"h3\t\t\t\t\t\t\t",
+			"h3",
+			"#include <pthread.h> \n#include <stdio.h>\n\nint sum; /* esses dados são compartilhados pelo(s) thread(s) */ \nvoid *runner(void *param); /* os threads chamam essa função */\n\nint main(int argc, char *argv[]) {\n   pthread_t tid; /* o identificador do thread */\n    pthread_attr_t attr; /* conjunto de atributos do thread */\n\n  if (argc != 2) {\n     fprintf(stderr,”usage: a.out <integer value>\\n”);\n      return -1;\n  }\n      \n  if (atoi(argv[1]) < 0) {\n         fprintf(stderr,”%d must be >= 0\\n”,atoi(argv[1]));\n          return -1;   \n  }\n  \t/* obtém os atributos default */\n\tpthread_attr_init(&attr);\n\t/* cria o thread */   \n\tpthread_create(&tid,&attr,runner,argv[1]);   \n\t/* espera o thread ser encerrado */   \n\tpthread_join(tid,NULL);   \n\tprintf(“sum = %d\\n”,sum); } \n\t/* O thread assumirá o controle nessa função */ \n\tvoid *runner(void *param) {\n\t   int i, upper = atoi(param);\n\t    sum = 0;\n  \n\t  for (i = 1; i <= upper; i++)\n\t  \tsum += i;\n\t  \n\t    pthread_exit(0);\n\t }",
+			"#include <pthread.h> \n#include <stdio.h>\n\nint sum; /* esses dados são compartilhados pelo(s) thread(s) */ \nvoid *runner(void *param); /* os threads chamam essa função */\n\nint main(int argc, char *argv[]) {\n   pthread_t tid; /* o identificador do thread */\n    pthread_attr_t attr; /* conjunto de atributos do thread */\n\n  if (argc != 2) {\n     fprintf(stderr,”usage: a.out <integer value>\\n”);\n      return -1;\n  }\n      \n  if (atoi(argv[1]) < 0) {\n         fprintf(stderr,”%d must be >= 0\\n”,atoi(argv[1]));\n          return -1;   \n  }\n  \t/* obtém os atributos default */\n\tpthread_attr_init(&attr);\n\t/* cria o thread */   \n\tpthread_create(&tid,&attr,runner,argv[1]);   \n\t/* espera o thread ser encerrado */   \n\tpthread_join(tid,NULL);   \n\tprintf(“sum = %d\\n”,sum); } \n\t/* O thread assumirá o controle nessa função */ \n\tvoid *runner(void *param) {\n\t   int i, upper = atoi(param);\n\t    sum = 0;\n  \n\t  for (i = 1; i <= upper; i++)\n\t  \tsum += i;\n\t  \n\t    pthread_exit(0);\n\t }\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Djalma/Documents/ADS/Programação web/Aula 5-Projeto web responsivo/Exercícios/css/exemplo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "PMCjs.js",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
